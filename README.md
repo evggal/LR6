@@ -49,5 +49,8 @@ branch1 <br>
 ![](https://github.com/evggal/LR6/blob/report-laba-6/images/20.jpg)
 Создана ветка для отчёта
 ![](https://github.com/evggal/LR6/blob/report-laba-6/images/19.png)
+**История операций**
+![](https://github.com/evggal/LR6/blob/report-laba-6/images/21.png)
+![](https://github.com/evggal/LR6/blob/report-laba-6/images/22.png)
 ## Вывод
 Изучены базовые возможности системы управления версиями, получен опыт работы с Git Api и опыт работы с локальным и удаленным репозиторием
